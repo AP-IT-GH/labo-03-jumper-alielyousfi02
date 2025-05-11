@@ -83,3 +83,4 @@ De agent `jump02` toont duidelijke en snelle convergentie richting hoge rewardwa
 
 ---
 
+Gemaakt door Nacer Aberkan en Ali El Yousfi
